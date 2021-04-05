@@ -15,11 +15,11 @@
 }
 
 .nav-link:hover {
-	color: #E6E3DE;
+	color: #a67272;
 }
 
 .carousel-item img{
-	height: 500px;
+	height: 600px;
 	width: 250px;
 }
 #footer	{
@@ -44,7 +44,8 @@
 
 
 .headersred {
-	color: #080000;
+	color: #a67272;
+	background-color: #E6E3DE;
 	margin-top: 20px;
 }
 
@@ -92,7 +93,7 @@ h1, h2, h3, h6, a {
 	text-align: justify;
 	color: black;
 	padding-right: 75px;
-	margin-top: 60px;
+	margin-top: 50px;
 }
 .textpage2 {
 	text-align: justify;
