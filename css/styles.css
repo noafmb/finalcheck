@@ -150,3 +150,10 @@ h3 {
 	color:#000000;
 }
 
+.my-container {
+	color: black;
+	background-color: #F7D3D3;
+	border:1px solid #a67272;
+	text-align:left;
+	padding:0.5em;
+}
