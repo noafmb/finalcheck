@@ -2,18 +2,25 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 .logo {
-	background: #E6E3DE}
+	background: #F5FFCF}
+
 .logo img{
 	height: 120px;
 	width: 250px;
 }
 
+
 .nav-link {
-	color: #731a1a;
+	color: black;
 }
 
 .nav-link:hover {
-	color: #d9bdba;
+	color: #F5FFCF;
+}
+
+.carousel-item img{
+	height: 500px;
+	width: 250px;
 }
 #footer	{
     color: #a67272;
@@ -31,19 +38,19 @@
 	
 }
 .buttoncolor {
-	background-color: #8c1c1c;
-	color: white;
+	background-color: #F5FFCF;
+	color: black;
 }
 
 
 .headersred {
-	color: #8c1c1c;
+	color: #080000;
 	margin-top: 20px;
 }
 
 
 .backgroundcolor {
-	 background-color:#D9BDBA;
+	 background-color: rosybrown;
 }
 
 body {
@@ -83,13 +90,13 @@ h1, h2, h3, h6, a {
 }
 .textpage1 {
 	text-align: justify;
-	color: #8c1c1c;
+	color: black;
 	padding-right: 75px;
 	margin-top: 60px;
 }
 .textpage2 {
 	text-align: justify;
-	color: #8c1c1c;
+	color: black;
 	padding-right: 120px;
 	padding-left: 120px;
 	margin-top: 60px;
@@ -104,7 +111,7 @@ h1, h2, h3, h6, a {
 		
 }
 .textcolor1 {
-	color: #731a1a;
+	color: black;
 }
 
 
@@ -114,7 +121,7 @@ h1, h2, h3, h6, a {
 }
 h3 { 
     text-align: center; 
-    background-color: #d9bdba; 
+    background-color: #F5FFCF; 
 }
 
 #footer	{
@@ -132,10 +139,8 @@ h3 {
 	padding-top: 60px;
 }
 
-
-
 .textcolor2 {
-	text-decoration-color: #8c1c1c
+	text-decoration-color: black
 }
 
 .textcolor3 {
@@ -153,3 +158,4 @@ h3 {
 .textcolor6 {
 	color:#000000;
 }
+
